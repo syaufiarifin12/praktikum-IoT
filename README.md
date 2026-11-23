@@ -1,1 +1,1 @@
-# praktikum-IoT
+# praktikum-rest-api-nodered
